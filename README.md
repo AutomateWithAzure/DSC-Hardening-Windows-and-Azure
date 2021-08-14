@@ -1,4 +1,4 @@
-# posh-dsc-windowsserver-hardening
+# DSC-Hardening-Windows-and-Azure
 
 This repository contains PowerShell DSC code for the secure configuration of Windows according to the following hardening guidelines:
 
